@@ -11,7 +11,7 @@ Project page for <https://wyen.me>
 ## Projects
 
 * [InsightVM: SQL Queries, Reports, API](https://wyen.me/InsightVM-SQL-Queries-Reports/) - My repo for Community made, Personally Created: Finished / Unfinished, SQL Queries, Reports, API etc.
-* [USA based Information Security & I.T. Conferences](https://github.com/talltechy/infosec_it-conferences-and-certs-usa) - Now with more certs!!
+* [USA based Information Security & I.T. Conferences](https://wyen.me/infosec_it-conferences-and-certs-usa/) - Now with more certs!!
 * [Macros, Formulas, Templates ETC for Excel](https://github.com/talltechy/Excel-Macros-Formulas)
 
 ## Built With
