@@ -23,7 +23,7 @@ We use [N/A] for versioning. For the versions available, see the [N/A projects t
 
 ## Authors
 
-* **Matt Wyen** - *Initial work* - [PurpleBooth](https://github.com/TallTechy)
+* **Matt Wyen** - *Initial work* - [TallTechy](https://github.com/TallTechy)
 
 ## License
 
