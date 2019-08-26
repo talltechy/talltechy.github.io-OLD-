@@ -2,79 +2,28 @@
 
 Project page for <https://wyen.me>
 
-## Getting Started
+## Projects
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+* [InsightVM: SQL Queries, Reports, API](https://github.com/talltechy/InsightVM-SQL-Queries-Reports) - My repo for Community made, Personally Created: Finished / Unfinished, SQL Queries, Reports, API etc.
+* [USA based Information Security & I.T. Conferences](https://github.com/talltechy/infosec_it-conferences-and-certs-usa) - Now with more certs!!
+* [Macros, Formulas, Templates ETC for Excel](https://github.com/talltechy/Excel-Macros-Formulas)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Visual Studio Code](https://github.com/microsoft/vscode) - The IDE we used
+* [Namecheap](https://namecheap.com) - Domain Names and TLS Certs
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [N/A] for versioning. For the versions available, see the [N/A projects tags]
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Matt Wyen** - *Initial work* - [PurpleBooth](https://github.com/TallTechy)
 
 ## License
 
@@ -82,6 +31,4 @@ This project is licensed under the CC0 1.0 Universal License - see the [LICENSE.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Billie Thompson** - *README.md Template* - [PurpleBooth](https://github.com/PurpleBooth)
