@@ -14,10 +14,15 @@ Project page for <https://wyen.me>
 * [USA based Information Security & I.T. Conferences](https://wyen.me/infosec_it-conferences-and-certs-usa/) - Now with more certs!!
 * [Macros, Formulas, Templates ETC for Excel](https://github.com/talltechy/Excel-Macros-Formulas)
 
+## Documentation
+
+* [.gitignore examples](https://wyen.me/GITIGNORE.md)
+
 ## Built With
 
 * [Visual Studio Code](https://github.com/microsoft/vscode) - The IDE we used
 * [Namecheap](https://namecheap.com) - Domain Names and TLS Certs
+* [Gitignore.io](https://gitignore.io) - Create useful .gitignore files for your project
 
 ## Contributing
 
