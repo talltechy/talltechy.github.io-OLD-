@@ -24,10 +24,10 @@
 
 ## Projects
 
-- [InsightVM: SQL Queries, Reports, API](.//InsightVM-SQL-Queries-Reports/) - My repo for Community made, Personally Created: Finished / Unfinished, SQL Queries, Reports, API etc.
+- [InsightVM: SQL Queries, Reports, API](./InsightVM-SQL-Queries-Reports/) - My repo for Community made, Personally Created: Finished / Unfinished, SQL Queries, Reports, API etc.
 - [USA based Information Security & I.T. Conferences](./infosec_it-conferences-and-certs-usa/) - Now with more certs!!
-- [Macros, Formulas, Templates ETC for Excel](./Excel-Macros-Formulas)
-- [CentOS: SpaceWalk Guides, Tips, Tricks and Deployment](./SpaceWalk/README)
+- [Macros, Formulas, Templates ETC for Excel](./Excel-Macros-Formulas/)
+- [CentOS: SpaceWalk Guides, Tips, Tricks and Deployment](./SpaceWalk/)
 
 ## Documentation
 
@@ -50,7 +50,7 @@
 
 ## Contributing
 
-Please read [CONTRIBUTING](./CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING](/CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -62,7 +62,7 @@ We use [N/A] for versioning. For the versions available, see the [N/A projects t
 
 ## License
 
-This project is licensed under the CC0 1.0 Universal License - see the [LICENSE.md](./LICENSE.md) file for details
+This project is licensed under the CC0 1.0 Universal License - see the [LICENSE](/LICENSE) file for details
 
 ## Acknowledgments
 
