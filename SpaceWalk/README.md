@@ -24,10 +24,10 @@ For general, up-to-date or otherwise not listed or customized instructions pleas
 
 ### [Installing](#Installing)
 
-- [CentOS: Spacewalk Server (This Page)](SpaceWalk/README)
-- [CentOS: Spacewalk Cert Creation](CentOS-SpaceWalk-CertCreation)
-- [CentOS: Spacewalk Install - Additional Info](install-additional-info)
-- [Unsorted General Notes](https://github.com/talltechy/talltechy.github.io/blob/6e4f2530f39449ef52d0998b8094f408774fd53a/SpaceWalk/unsorted-general-notes.md)
+- [CentOS: Spacewalk Server (This Page)](./README)
+- [CentOS: Spacewalk Cert Creation](./CentOS-SpaceWalk-CertCreation)
+- [CentOS: Spacewalk Install - Additional Info](./install-additional-info)
+- [Unsorted General Notes](./unsorted-general-notes)
 
 ### [Deployment](#Deployment)
 
@@ -53,7 +53,7 @@ For general, up-to-date or otherwise not listed or customized instructions pleas
 
 ### [Contributing](#Contributing)
 
-Please read [CONTRIBUTING.md](./contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](../CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### [Versioning](#Versioning)
 
