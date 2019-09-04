@@ -16,7 +16,10 @@ Project page for <https://wyen.me>
 
 ## Documentation
 
-* [.gitignore examples](https://wyen.me/GITIGNORE.md)
+> do not include the .md file extension for markdown pages
+
+* [.gitignore examples](https://wyen.me/GITIGNORE)
+* [Markdown Cheat Sheet](https://wyen.me/Markdown-Cheat-Sheet)
 
 ## Built With
 
