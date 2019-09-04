@@ -24,14 +24,14 @@ For general, up-to-date or otherwise not listed or customized instructions pleas
 
 ### [Installing](#Installing)
 
-- [CentOS: Spacewalk Server (This Page)](/README)
-- [CentOS: Spacewalk Cert Creation](/CentOS-SpaceWalk-CertCreation)
-- [CentOS: Spacewalk Install - Additional Info](/install-additional-info)
-- [Unsorted General Notes](/unsorted-general-notes)
+- [CentOS: Spacewalk Server (This Page)](README)
+- [CentOS: Spacewalk Cert Creation](CentOS-SpaceWalk-CertCreation)
+- [CentOS: Spacewalk Install - Additional Info](install-additional-info)
+- [Unsorted General Notes](unsorted-general-notes)
 
 ### [Deployment](#Deployment)
 
-- [Linux Server Deploy Guide](/linux-server-deploy-guide)
+- [Linux Server Deploy Guide](linux-server-deploy-guide)
 
 ### [Built With](#Built-With)
 
