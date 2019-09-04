@@ -24,7 +24,7 @@ For general, up-to-date or otherwise not listed or customized instructions pleas
 
 ### [Installing](#Installing)
 
-- [CentOS: Spacewalk Server (This Page)](/CentOS-SpaceWalk-Server)
+- [CentOS: Spacewalk Server (This Page)](/README)
 - [CentOS: Spacewalk Cert Creation](/CentOS-SpaceWalk-CertCreation)
 - [CentOS: Spacewalk Install - Additional Info](/install-additional-info)
 - [Unsorted General Notes](/unsorted-general-notes)
