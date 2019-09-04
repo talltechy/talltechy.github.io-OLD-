@@ -1,5 +1,9 @@
 # .gitignore examples
 
+[Project Homepage](../README)
+
+---
+
 <https://git-scm.com/docs/gitignore>
 
 ## my default .gitignore file

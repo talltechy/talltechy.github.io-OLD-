@@ -1,5 +1,8 @@
 # Creating and highlighting code blocks
 
+[Project Homepage](../README)
+
+---
 Share samples of code with fenced code blocks and enabling syntax highlighting.
 
 ## Code Blocks
