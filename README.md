@@ -8,7 +8,7 @@
   - [Social](#social)
   - [Projects](#projects)
   - [Documentation](#documentation)
-  - [CentOS Documentation](#centos-documentation)
+  - [{defunct} CentOS Documentation](#defunct-centos-documentation)
   - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
@@ -20,15 +20,15 @@
 
 - [Keybase - babou_tunt](https://keybase.io/babou_tunt) - keybase profile (PGP key, Private Communication, Private File Sharing)
 - [Linkedin - CyberMattSecure](https://www.linkedin.com/in/cybermattsecure/) - Add me to your LinkedIn Professional Network
-- [Twitter - @CyberMattSecure](https://twitter.com/CyberMattSecure) - Because I have to have some form of social media right?
 - [Mastodon - @cybermattsecure](https://infosec.exchange/@cybermattsecure) - The NEW! Twitter
 
 ## Projects
 
+- [Security Tools API](https://wyen.me/insightvm-python/) - Current state is the beginning of a python script to help automate actions across different security tools like Rapid7 InsightVM, PaloAlto Cortex XDR, Dell Secureworks Taegis, VirusTotal, Pulsedive, etc..
 - [InsightVM: SQL Queries, Reports, API](./InsightVM-SQL-Queries-Reports/) - My repo for Community made, Personally Created: Finished / Unfinished, SQL Queries, Reports, API etc.
 - [USA based Information Security & I.T. Conferences](./infosec_it-conferences-and-certs-usa/) - Now with more certs!!
 - [Macros, Formulas, Templates ETC for Excel](./Excel-Macros-Formulas/)
-- [CentOS: SpaceWalk Guides, Tips, Tricks and Deployment](./SpaceWalk/)
+- [{Defunct} CentOS: SpaceWalk Guides, Tips, Tricks and Deployment](./SpaceWalk/)
 
 ## Documentation
 
@@ -38,7 +38,7 @@
 - [Markdown Cheat Sheet](./cheatsheets/markdown-cheat-sheet)
 - [Meta Markdown - Code Blocks Cheat Sheet](./cheatsheets/meta-code-blocks-cheat-sheet)
 
-## CentOS Documentation
+## {defunct} CentOS Documentation
 
 - [CentOS 7 - Grant Root Privileges](./linux/CentOS/7/CentOS7-grant-root-privileges)
 - [CentOS 7 - Integrate with Windows Active Directory](./linux/CentOS/7/Integrate-CentOS7-RHEL7-Windows-Active-Directory)
